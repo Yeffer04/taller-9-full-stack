@@ -11,6 +11,7 @@
 <a href="https://www.figma.com/file/Y30NJHffiC39oV4HdwTVrm/Yefferson-Arevalo-Rodriguez?type=design&node-id=0%3A1&mode=design&t=rT5g9gd1HMpUFZdY-1">Link de Figma</a>
 
 <h2>punto 2: Diseño en THML</h2>
+<img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2>punto 3: Diseño co CSS</h2>
 
