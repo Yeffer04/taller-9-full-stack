@@ -1,0 +1,19 @@
+.green {
+    color: rgb(24, 187, 24);
+}
+.red-1 {
+    color: red;
+}
+.line {
+    text-decoration: overline underline;
+}
+.big-letter {
+    font-size: 30px;
+}
+.blue {
+    color: blue;
+}
+.red-2 {
+    color: red;
+    text-decoration: underline;
+}
