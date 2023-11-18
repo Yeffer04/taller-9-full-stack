@@ -1,0 +1,13 @@
+body {
+    font-size: 30px;
+    line-height: 70px;
+}
+.marca {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.as {
+    color: rgb(233, 42, 233);
+    text-decoration: underline;
+}

@@ -1,0 +1,13 @@
+table {
+    margin: 0px 280px;
+    background-color: yellow;
+    border-collapse: collapse;
+}
+tr th {
+    font-style: italic;
+    color: red;
+    border: black 1px dotted;
+}
+tr td {
+    border: black 1px dotted;
+}
